@@ -32,8 +32,8 @@
 ### Вариант 2: Из исходников
 
 ```bash
-git clone https://github.com/skyi4k/cat-keyboard-blocker.git
-cd cat-keyboard-blocker
+git clone https://github.com/skyi4k/keyboard-blocker.git
+cd keyboard-blocker
 pip install -r requirements.txt
 python cat_blocker.py
 ```
